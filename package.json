@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-parse": "^4.15.4",
+    "google-libphonenumber": "^3.2.19",
+    "lodash": "^4.17.21",
+    "validator": "^13.6.0"
+  }
+}
